@@ -1,6 +1,6 @@
-# Sistemas_Operacionais
+# Sistemas Operacionais
 
-Roteiro do Laboratório Inicial com miniOS
+##Roteiro do Laboratório Inicial com miniOS
 Objetivo:
 Introduzir os alunos ao miniOS, permitindo que eles compreendam a configuração básica, navegação e realização de operações fundamentais no sistema operacional. As tarefas práticas serão realizadas e os resultados devem ser salvos e enviados ao professor.
 
